@@ -1,1 +1,1 @@
-# ReMo
+# Rendszer Modellezés tárgy laborjai
